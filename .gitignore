@@ -1,0 +1,5 @@
+**/log
+**/logs
+**/lib
+var/logs
+webroot/App.php
